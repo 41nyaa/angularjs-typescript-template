@@ -1,6 +1,6 @@
 
-## AngularJS-TypeScript-Sample
-This project is a so simple sample using AngularJS, TypeScript and webpack.
+## AngularJS-TypeScript-Template
+This project is a template using AngularJS, TypeScript and webpack.
 This project was created by the following procedure.
 
 ```bash 
